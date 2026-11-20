@@ -8,6 +8,26 @@ PYTHIA generates the collision and its final-state particles. These particles ar
 
 The detector currently consists of nested cubic layers of tungsten and silicon, forming a simple sampling calorimeter around the collision point.
 
+
+## Simulation Visualization
+
+### 10-Layer Detector Simulation
+
+![10-layer detector simulation](images/10_layers_detector.png)
+
+### Zoomed Particle Tracks
+
+![Zoomed particle tracks](images/10_layers_detector_zoomed_view.png)
+
+### Detector Geometry and Beam
+
+![Detector geometry](images/Detector_Zoomed_view.png)
+
+## Project Presentation
+
+[Download the one-slide project summary (PDF)](presentation/Geant4_Project_summary.pdf)
+
+
 ## Current Features
 
 - Proton-proton collision generation using PYTHIA 8.
@@ -70,3 +90,4 @@ From the build directory, execute:
 ## Future Development
 
 This project is currently under development. Future work will focus on energy-deposition measurements, layer-wise energy analysis, particle shower studies, detector response investigations, and further development and optimization of the detector geometry.
+
