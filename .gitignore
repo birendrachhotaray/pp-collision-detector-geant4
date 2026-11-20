@@ -1,0 +1,21 @@
+# CMake build directory
+build/
+
+# Compiled executable
+G-space-suit
+
+# Compiled object and library files
+*.o
+*.so
+*.a
+
+# Simulation output
+particles.csv
+*.root
+
+# Log and temporary files
+*.log
+*.tmp
+
+# Geant4 visualization settings
+*.g4view
